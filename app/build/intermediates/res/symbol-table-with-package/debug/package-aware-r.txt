@@ -1,4 +1,4 @@
-com.example.marco.homework
+com.example.marco.hw
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1024,9 +1024,15 @@ drawable notify_panel_notification_icon_bg
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
+id Black
+id Blue
 id CTRL
+id Cyan
 id FUNCTION
+id Green
 id META
+id Magenta
+id Red
 id SHIFT
 id SYM
 id action_bar
@@ -1057,15 +1063,13 @@ id async
 id auto
 id barrier
 id beginning
-id black
 id blocking
-id blue
 id bottom
-id button
 id button1
 id button2
 id button3
 id buttonPanel
+id cancel
 id center
 id center_horizontal
 id center_vertical
@@ -1081,7 +1085,6 @@ id contentPanel
 id coordinator
 id custom
 id customPanel
-id cyan
 id decor_content_parent
 id default_activity_button
 id design_bottom_sheet
@@ -1104,11 +1107,10 @@ id fill_horizontal
 id fill_vertical
 id filled
 id fixed
-id floatingActionButton2
+id floatingActionButton
 id forever
 id ghost_view
 id gone
-id green
 id group_divider
 id groups
 id home
@@ -1128,7 +1130,6 @@ id line1
 id line3
 id listMode
 id list_item
-id magenta
 id masked
 id message
 id middle
@@ -1144,6 +1145,7 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id ok
 id outline
 id packed
 id parallax
@@ -1155,7 +1157,6 @@ id pin
 id progress_circular
 id progress_horizontal
 id radio
-id red
 id right
 id right_icon
 id right_side
@@ -1321,6 +1322,12 @@ raw ring02
 raw ring03
 raw ring04
 raw ringd
+string Black
+string Blue
+string Cyan
+string Green
+string Magenta
+string Red
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

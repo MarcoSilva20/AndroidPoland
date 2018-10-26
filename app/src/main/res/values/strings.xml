@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW</string>
+    <string name="action_settings">Settings</string>
+    <string name="Red">Red</string>
+    <string name="Blue">Blue</string>
+    <string name="Green">Green</string>
+    <string name="Cyan">Cyan</string>
+    <string name="Magenta">Magenta</string>
+    <string name="Black">Black</string>
+
+</resources>
